@@ -25,7 +25,7 @@
 
 ###RailWay
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fimpta%2FVidBrut&envs=AUTH_USERS%2CAPI_ID%2CAPI_HASH%2CCHAT_ID%2CBOT_TOKEN%2CBOT_USERNAME%2CSESSION_STRING%2CREPLY_MESSAGE
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fimpta%2FVidBrut&envs=AUTH_USERS%2CAPI_ID%2CAPI_HASH%2CCHAT_ID%2CBOT_TOKEN%2CBOT_USERNAME%2CSESSION_STRING%2CREPLY_MESSAGE)
 
 ## Commands
 ```sh
